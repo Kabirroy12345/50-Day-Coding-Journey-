@@ -8,4 +8,4 @@ Math-based Problems
 Placement-Oriented Practice
 Consistent Coding Habits
 📅 Challenge Duration: 50 Days
-🛠 Languages Used: Python / C++ / Java (based on problem)
+🛠 Languages Used: C++ 
